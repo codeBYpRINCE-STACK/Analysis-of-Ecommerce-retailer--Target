@@ -5,6 +5,7 @@ This project involves a comprehensive analysis of an e-commerce dataset using Py
 
 
 🛠️ Technologies Used
+<br>
 Backend & Database: SQL (MySQL)
 <br>
 Data Analysis & Manipulation: Python, Pandas
