@@ -18,18 +18,28 @@ Database Connection: mysql-connector-python
 The analysis explores several key aspects of the e-commerce business:
 
 **Sales & Revenue Performance**
+<br>
 Calculated the Year-over-Year (YoY) sales growth rate.
+<br>
 Analyzed cumulative sales on a monthly basis.
+<br>
 Identified and ranked the Top 10 Sellers by total revenue.
+<br>
 Visualized the contribution of the Top 15 Product Categories to sales using a treemap.
+<br>
 
 **Customer & Order Behavior**
+<br>
 Determined the geographic distribution of customers by state using a 3D bar chart.
+<br>
 Identified the Top 3 Spending Customers for each year.
+<br>
 Calculated the 6-month customer retention rate.
+<br>
 Analyzed the trend of monthly orders using a gradient area chart.
 
 **Advanced Analytics**
 Calculated the correlation between product price and purchase frequency.
+<br>
 Computed a moving average of order values for individual customers over their order history.
-
+<br>
