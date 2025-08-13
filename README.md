@@ -39,6 +39,7 @@ Calculated the 6-month customer retention rate.
 Analyzed the trend of monthly orders using a gradient area chart.
 
 **Advanced Analytics**
+<br>
 Calculated the correlation between product price and purchase frequency.
 <br>
 Computed a moving average of order values for individual customers over their order history.
