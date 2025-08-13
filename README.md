@@ -6,8 +6,11 @@ This project involves a comprehensive analysis of an e-commerce dataset using Py
 
 🛠️ Technologies Used
 Backend & Database: SQL (MySQL)
+<br>
 Data Analysis & Manipulation: Python, Pandas
+<br>
 Data Visualization: Matplotlib, Seaborn, Squarify
+<br>
 Database Connection: mysql-connector-python
 
 📊 Key Analyses & Visualizations
